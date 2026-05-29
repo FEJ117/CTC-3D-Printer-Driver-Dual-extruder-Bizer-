@@ -1,7 +1,8 @@
 # CTC-3D-Printer-Driver-Dual-extruder-Bizer
-This is a driver for the dual extruder CTC 3D printer board to controll the steppers, LEDs, display, buttons, buzzer and endstops
+This is a driver for the dual extruder CTC 3D printer board to controll the steppers, LEDs, display, buttons, buzzer and endstops with arduino software. You may use this to create your own machine out of old 3D-Printer parts.
 
 # USE AT YOUR OWN RISK!
+This is a work in progress. Nothing is guaranteed to work 100%.
 
 # Preparation
 To use this software you might have to upload the Arduino bootloader onto the ATMEGA1280 on the board. For this you may use Arduino as ISP if you have an Arduino board available. Otherwise use an USB-ISP adapter. This procedure is well documented in the Arduino documentation.
